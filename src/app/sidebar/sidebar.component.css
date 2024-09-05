@@ -1,0 +1,46 @@
+/* .sidebar{
+    background-color: black;
+    width: 102px;
+} */
+
+.sidebar {
+    background-color: #002a47; /* Dark blue background */
+    width: 70px; /* Width of the sidebar */
+    height: 100vh; /* Full height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+  }
+  
+  .logo {
+    margin-bottom: 20px;
+  }
+  
+  .logo img {
+    width: 50px; /* Adjust logo size */
+    height: 50px;
+  }
+  
+  .menu {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .menu-item {
+    width: 50px;
+    height: 50px;
+    margin: 10px 0;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .menu-item img {
+    width: 24px;
+    height: 24px;
+  }

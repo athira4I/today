@@ -1,0 +1,12 @@
+#chartdiv-smoothed, #chartdiv-traffic {
+    width: 100%;
+    height: 500px; 
+    display: block;
+  margin-bottom: 20px;
+  }
+  .curved{
+    background-color: hwb(0 44% 13%);
+  }
+  .line{
+    background-color: #6767b3;
+  }

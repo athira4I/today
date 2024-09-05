@@ -1,0 +1,98 @@
+/* .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #002a47;
+    padding: 10px 20px;
+    color: white;
+  }
+  
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon-group {
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon-group i {
+    font-size: 20px;
+  }
+  
+  .badge {
+    background-color: #54698d;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 12px;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+  }
+  
+  .user-icon {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+  }
+   */
+
+   .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #002a47;
+    padding: 10px 20px;
+    color: white;
+  }
+  
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon-group {
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .badge {
+    background-color: #54698d;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 12px;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    color: white;
+  }
+  
+  .user-icon {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+  }
+  
+  .user-icon .icon {
+    margin-right: 8px;
+  }
